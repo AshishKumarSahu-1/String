@@ -1,0 +1,2 @@
+"Clone Tube" is an open source project of an video streaming platform.
+This is made for the college project.
