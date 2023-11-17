@@ -1,2 +1,10 @@
 "Clone Tube" is an open source project of an video streaming platform.
 This is made for the college project.
+This project was made by 
+(i) Ashish Kumar Sahu
+(ii) Bidyut Ranjan Bag
+(iii) Debasish Sahu
+(iv) Kshira sindhu Bandaki
+(v) Rakesh Kumar Sahu
+(vi) Shaktidhar Sahu
+(vii) and other project members
