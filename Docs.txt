@@ -1,4 +1,4 @@
-"Clone Tube" is an open source project of an video streaming platform.
+"String" is an open source project of an video streaming platform.
 This is made for the college project.
 This project was made by 
 (i) Ashish Kumar Sahu

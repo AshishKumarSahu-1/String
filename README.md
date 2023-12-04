@@ -1,2 +1,2 @@
-# Clone_Tube
+# String
 A video streaming platform for college project.
